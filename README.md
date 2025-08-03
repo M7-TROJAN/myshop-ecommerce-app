@@ -104,5 +104,3 @@ myshop.Web.sln
 ## License
 
 This project is licensed under the MIT License.
-ولو عندك لوجو للموقع أو Screenshot من الواجهة الرئيسية، أقدر أضيفهم للـ README كمان.
-```
